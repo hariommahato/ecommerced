@@ -42,7 +42,7 @@
     "webfontloader": "^1.6.28"
   },
   "scripts": {
-    "start": "PORT=3003 react-scripts start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -65,5 +65,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy":"https://backendecommerce-1ele.onrender.com"
+  "proxy":"https://mern-ecommerce-backend-xo0h.onrender.com"
 }
